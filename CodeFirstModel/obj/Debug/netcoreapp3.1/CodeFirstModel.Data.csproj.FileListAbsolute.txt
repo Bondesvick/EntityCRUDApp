@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.Data.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.Data.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.Data.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\ClassModels.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\ClassModels.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.csproj.CopyComplete
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.Data.runtimeconfig.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.Data.runtimeconfig.dev.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.Data.genruntimeconfig.cache

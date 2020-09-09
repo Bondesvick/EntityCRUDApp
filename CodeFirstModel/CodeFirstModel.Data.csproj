@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200906150541_First.cs" />
+    <Compile Remove="Migrations\20200906150541_First.Designer.cs" />
+    <Compile Remove="Migrations\20200906215038_Third.cs" />
+    <Compile Remove="Migrations\20200906215038_Third.Designer.cs" />
+    <Compile Remove="Migrations\20200906215302_Third.cs" />
+    <Compile Remove="Migrations\20200906215302_Third.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassModels\ClassModels.csproj" />
+  </ItemGroup>
+  <!--netstandard2.0-->
+</Project>

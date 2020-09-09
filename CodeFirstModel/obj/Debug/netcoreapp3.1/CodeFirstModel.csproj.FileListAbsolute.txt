@@ -1,0 +1,12 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\CodeFirstModel.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\ClassModels.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\bin\Debug\netcoreapp3.1\ClassModels.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.csproj.CopyComplete
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\EntityCRUDApp\CodeFirstModel\obj\Debug\netcoreapp3.1\CodeFirstModel.pdb
